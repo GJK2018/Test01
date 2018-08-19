@@ -10,6 +10,6 @@ class Test01():
         allure.attach('描述', '我是测试步骤001的描述～～～')
         assert a != 2
 
-    def test02(self, a):
+    def test02(self):
         allure.attach('描述', '我是测试步骤002的描述～～～')
         assert 1
