@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "kui-PC",
+    "children" : [ {
+      "name" : "6040-MainThread",
+      "children" : [ {
+        "name" : "Test01.test_al[3]",
+        "uid" : "6784f2327e89405d",
+        "parentUid" : "0ec381f04aad7e6cb6658aaaa0b93c19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1534575895628,
+          "stop" : 1534575895628,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test_al[1]",
+        "uid" : "485eea0584879f1c",
+        "parentUid" : "0ec381f04aad7e6cb6658aaaa0b93c19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1534575895550,
+          "stop" : 1534575895550,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test_al[2]",
+        "uid" : "6c642df57b41b90b",
+        "parentUid" : "0ec381f04aad7e6cb6658aaaa0b93c19",
+        "status" : "failed",
+        "time" : {
+          "start" : 1534575895566,
+          "stop" : 1534575895628,
+          "duration" : 62
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ec381f04aad7e6cb6658aaaa0b93c19"
+    } ],
+    "uid" : "6f9072a7701121ef7e637e84a7edbf5e"
+  } ]
+}
